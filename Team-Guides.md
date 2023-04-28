@@ -21,6 +21,8 @@ We do code reviews for all changes.
 1. Propose a fix to the team (unless you are the maintainer of that region of code)
 1. Open a PR
 1. Be respectful of your reviewers and fix the things discussed
+1. As a reviewer, if you have a small or minor nitpick, use `nit:` before your comment. These issues aren't worthy of blocking the PR but they bother the hell out of you.
+1. As an author, if you don't fix a nit, convert it to an issue and put it in the backlog and label it `help wanted`.
 
 ## General Rules
 
@@ -35,6 +37,13 @@ We do code reviews for all changes.
 Externally, we enforce a strict requirement of filling out the PR details. 
 Internally, I'd appreciate it if you did. 
 
-### 
+# Communication
+
+This governs our expectations around communication, processes, and more
+
+## Expectations 
+
+You are expected to work with the team in a healthy and collaborative way.
+You may be asked to join meetings, be flexible. We are as globally distributed as possible.
 
 # 
