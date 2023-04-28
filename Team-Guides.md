@@ -7,19 +7,27 @@ If that's not you, keep on swimming.
 
 You may not change this document without the approval of the core contributing team.
 
-# Why are we building Auto-GPT
+# Motivation and Morals
 
-We build this to better the world. **We must not let this be used for evil.** You must keep this top of mind at all times.
+## Why are we building Auto-GPT
 
-# Issues
+We build this to better the world. 
+
+**We must not let this be used for evil.**
+
+You must keep this top of mind at all times.
+
+# Project Management
+
+## Issues
 
 If you create an issue, fill the template out. 
 
-# Reviews
+## Reviews
 
 We do code reviews for all changes. 
 
-## Process Overview
+### Process Overview
 
 1. Discuss an issue
 1. Propose a fix to the team (unless you are the maintainer of that region of code)
@@ -28,7 +36,7 @@ We do code reviews for all changes.
 1. As a reviewer, if you have a small or minor nitpick, use `nit:` before your comment. These issues aren't worthy of blocking the PR but they bother the hell out of you.
 1. As an author, if you don't fix a nit, convert it to an issue and put it in the backlog and label it `help wanted`.
 
-## General Rules
+### General Rules
 
 1. Only make one conceptual change per PR. I don't care if you're internal, external, or Toran himself. You must follow this.
 1. Your tests must pass to merge.
