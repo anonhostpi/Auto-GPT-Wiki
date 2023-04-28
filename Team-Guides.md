@@ -17,6 +17,14 @@ We build this to better the world.
 
 You must keep this top of mind at all times.
 
+## What are we building
+
+An autonomous agent(s) capable of accomplishing tasks on its own.
+
+## Who are we building this for
+
+The average joe who wants to improve their life's lot.
+
 # Project Management
 
 We use our GH project boards to manage most of the projects. We also use Discord for communication and various drawing tools for collaboration.
@@ -59,5 +67,6 @@ This governs our expectations around communication, processes, and more
 
 You are expected to work with the team in a healthy and collaborative way.
 You may be asked to join meetings, be flexible. We are as globally distributed as possible.
+You are expected to communicate your working areas when you start working on them, not just before you open the PR.
 
 # 
