@@ -7,6 +7,10 @@ If that's not you, keep on swimming.
 
 You may not change this document without the approval of the core contributing team.
 
+# Why are we building Auto-GPT
+
+We build this to better the world. **We must not let this be used for evil.** You must keep this top of mind at all times.
+
 # Issues
 
 If you create an issue, fill the template out. 
