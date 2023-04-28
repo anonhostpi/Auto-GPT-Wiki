@@ -19,6 +19,8 @@ You must keep this top of mind at all times.
 
 # Project Management
 
+We use our GH project boards to manage most of the projects. We also use Discord for communication and various drawing tools for collaboration.
+
 ## Issues
 
 If you create an issue, fill the template out. 
