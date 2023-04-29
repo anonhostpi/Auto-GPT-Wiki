@@ -6,3 +6,12 @@ Duties include:
 - triaging issues and PRs
 - onboarding devs to become contributors
 - onboarding contributors to become maintainers
+
+
+(TODO) Stock messages for issues/PRs:
+- PEBCAK
+- not our problem
+- bad quality
+- PR is bad quality
+- Issue/PR is dup.
+- etc.
