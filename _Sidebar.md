@@ -1,2 +1,4 @@
 - [🛖 Home](Home)
-- [Contributing](Contributing)
+- [🎁 Contributing](Contributing)
+- [🧪 Catalyzing](Catalyzing)
+- [🧙‍♂️ Maintaining](Maintaining)
