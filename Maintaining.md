@@ -29,3 +29,12 @@ Reactions
 - 👍 to request acknowledgement (or react to acknowledge that you've read it)
 - ✅ job done (merged, finished, etc)
 
+
+(TODO) Stock messages for issues/PRs:
+- PEBCAK
+- not our problem
+- bad quality
+- PR is bad quality
+- Issue/PR is dup.
+- etc.
+
