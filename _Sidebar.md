@@ -1,4 +1,4 @@
-- [🛖 Home](Home)
+- [🛖 Vision](Vision)
 - [🧭 Orienting](Orienting)
 - [🤖 Using AutoGPT](Using)
 - [👮‍♀️ Moderating the Discord community](Moderating)
