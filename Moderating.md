@@ -7,17 +7,17 @@ If you are keen to operate as a moderator of our [Discord](https://discord.gg/au
 
 🙏 Please do your best and use your common sense. We can ask no more. Your support is gratefully received.
 
-A list is no substitute for common sense. But here are some ideas.
+A list is no substitute for common sense. But here are some suggestions:
 
 - Summon order from the chaos
 
 - Help keep conversation on-topic (direct convos to the appropriate channels)
 
-- Help users with issues as you are able
+- Help users with issues as you are able, drop a message in #team-chat to get contrib/catalyst/maintainer eyes on it
 
 - Help keep the peace
 
 - Draw attention of core-devs to where it's needed
     Core-devs often do not follow the conversation in the main user channels
 
-- If someone reports a problem (to be continued...)
+Your work is valued and appreciated! 🙏 ❤️ ✨
