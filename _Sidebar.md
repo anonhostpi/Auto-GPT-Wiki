@@ -3,6 +3,7 @@
 - [🤖 Using AutoGPT](Using)
 - [👮‍♀️ Moderating the Discord community](Moderating)
 - [🎁 Contributing to AutoGPT](Contributing)
+- [🔌 Plugins Creators](Plugins)
 - [🧪 Catalyzing AutoGPT](Catalyzing)
 - [🧙‍♂️ Maintaining AutoGPT](Maintaining)
 - [💫 Envisioning AutoGPT](Envisioning)
