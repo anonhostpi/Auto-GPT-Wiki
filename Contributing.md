@@ -1,5 +1,6 @@
 (NOTE: We're gutting out the CONTRIBUTING.md from the repo, and putting it here. That file will just hyperlink here. Single source of truth, plus no developer will be referencing an outdated document).
 
+```
 Notes for contributors
     How to contribute (github, discord)
         First check it's wanted/useful
@@ -11,7 +12,7 @@ Notes for contributors
             Take it OFF draft to say "ready for review"
             Mention it in #pull-requests on Discord, can discuss, can help fast-track
             ALSO pwuts is livestreaming each day, he may merge it live for you
-
+```
 
 NOTE: Below is the current CONTRIBUTING.md document; need to resolve it with above, keeping it succinct.
 
