@@ -5,3 +5,4 @@
 - [🎁 Contributing to AutoGPT](Contributing)
 - [🧪 Catalyzing AutoGPT](Catalyzing)
 - [🧙‍♂️ Maintaining AutoGPT](Maintaining)
+- [💫 Envisioning AutoGPT](Envisioning)
