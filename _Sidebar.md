@@ -6,4 +6,4 @@
 - [🔌 Plugins Creators](Plugins)
 - [🧪 Catalyzing](Catalyzing)
 - [🧙‍♂️ Maintaining](Maintaining)
-- [💫 Architecting](Envisioning)
+- [💫 Architecting](Architecting)
