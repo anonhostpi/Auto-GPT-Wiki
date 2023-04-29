@@ -1,1 +1,2 @@
-- [home](Home)
+- [🛖 Home](Home)
+- [Contributing](Contributing)
