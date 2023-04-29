@@ -1,13 +1,3 @@
-Welcome to the Auto-GPT wiki!
-
-Refer to the [/docs](https://github.com/Significant-Gravitas/Auto-GPT/tree/master/docs)
-
-
-### ⚡️ Live document ⚡️
-
-Do not change this document without the approval of the core contributing team.
-
-
 # 👁️ Vision 
 
 ```
