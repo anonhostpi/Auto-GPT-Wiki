@@ -1,6 +1,7 @@
 - [🛖 Home](Home)
 - [🧭 Orienting](Orienting)
 - [🤖 Using AutoGPT](Using)
+- [👮‍♀️ Moderating the AutoGPT Discord community]
 - [🎁 Contributing to AutoGPT](Contributing)
 - [🧪 Catalyzing AutoGPT](Catalyzing)
 - [🧙‍♂️ Maintaining AutoGPT](Maintaining)
