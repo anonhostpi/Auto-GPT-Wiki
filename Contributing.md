@@ -1,7 +1,38 @@
-(NOTE: We're gutting out the CONTRIBUTING.md from the repo, and putting it here. That file will just hyperlink here. Single source of truth, plus no developer will be referencing an outdated document).
+# 🎁 Contributing
+
+😣 Larry is filing an issue. Larry is too lazy to read the doc. Larry is also too lazy to check for duplicates. Larry is even too lazy to talk in the Discord. Larry isn't supplying useful information in his issue. It's all rather a mess. Larry's issue will be closed.
+
+😖 Curly is making a Pull Request. He's making a minor code-change (with the help of GPT4) and adding some `.` characters in the doc. If he's honest with himself he wants to boost his GitHub stats to show he's contributed to AutoGPT. He hasn't even filled out the PR description. Curly is actually CREATING work for the coredev team. Curly's PR will be rejected.
+
+😫 Moe is also making a Pull Request. This one's big. Moe is proud of it. But he hasn't bothered to look at the roadmap or even discuss with a maintainer/catalyst on the Discord what he's planning. He didn't create a draft PR with a statement of purpose. He just dived in. Alas the core team are going in a different direction. Moe's PR won't be making it in.
+
+Don't be a stooge.
+
+🦎 Bill the Lizard, on the other hand, has got it right:
+- He's quietly figured out how the code works
+- He's spotted a problem. It's quite a lot of work even for Bill, who is a senior software engineer. So that's likely to take a load off of the shoulders of the core-team.
+- A quick search of issues / PRs suggests nobody's on it.
+- He's created a Draft-PR on GitHub and filled in the description
+- He's jumped on the Discord, and floated his proposal in the right channel (#dev-chat)
+    - A maintainer has picked up and greenlighted him
+    - Eddie the Eagle (also a quality contributor) had the same idea, but (while searching) sees Bill's draftPR and joins forces
+- Bill and Eddie get the code written and test it on their local systems
+- Bill hops on the Discord and sends a message in #pull-requests to say "Ready!"
+    - Actually he notices Pwuts is livestreaming, so hops in and they do a live review/merge.
+- Bill's fix is now in master.
+- There is jubilance and great celebration throughout the realm.
+- Bill is offered a Contributors badge, as he fkn nailed it.
+
+- Later Eddie eats Bill, because he is hungry and an Eagle is higher in the foodchain than a Lizard.
+
+This is sad as Bill is exactly the kind of energy we're looking for.
+
+🦅
+
+- - -
 
 ```
-Notes for contributors
+Succinct notes for contributors
     How to contribute (github, discord)
         First check it's wanted/useful
             Roadmap (here)
@@ -14,8 +45,9 @@ Notes for contributors
             ALSO pwuts is livestreaming each day, he may merge it live for you
 ```
 
-NOTE: Below is the current CONTRIBUTING.md document; need to resolve it with above, keeping it succinct.
+- - - 
 
+NOTE: Below is the current CONTRIBUTING.md document; need to resolve it with above, keeping it succinct.
 
 # Contributing to Auto-GPT
 
