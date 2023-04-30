@@ -2,7 +2,7 @@
 
 😣 Larry is filing an issue. Larry is too lazy to read the doc. Larry is also too lazy to check for duplicates. Larry is even too lazy to talk in the Discord. Larry isn't supplying useful information in his issue. It's all rather a mess. Larry's issue will be closed.
 
-😖 Curly is making a Pull Request. He's making a minor code-change (with the help of GPT4) and adding some `.` characters in the doc. If he's honest with himself he wants to boost his GitHub stats to show he's contributed to AutoGPT. He hasn't even filled out the PR description. Curly is actually CREATING work for the coredev team. Curly's PR will be rejected.
+😖 Curly is making a Pull Request. He's making a minor code-change and adding some punctuation in the doc. If he's honest with himself he wants to boost his GitHub stats to show he's contributed to AutoGPT. He hasn't even filled out the PR description. Curly is actually CREATING work for the coredev team. Curly's PR will be rejected.
 
 😫 Moe is also making a Pull Request. This one's big. Moe is proud of it. But he hasn't bothered to look at the roadmap or even discuss with a maintainer/catalyst on the Discord what he's planning. He didn't create a draft PR with a statement of purpose. He just dived in. Alas the core team are going in a different direction. Moe's PR won't be making it in.
 
@@ -25,7 +25,7 @@ Don't be a stooge.
 
 - Later Eddie eats Bill, because he is hungry and an Eagle is higher in the foodchain than a Lizard.
 
-This is sad as Bill is exactly the kind of energy we're looking for.
+This is sad for us as Bill is exactly the kind of energy we're looking for.
 
 🦅
 
