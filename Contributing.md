@@ -29,6 +29,8 @@ This is sad as Bill is exactly the kind of energy we're looking for.
 
 🦅
 
+(NOTE: No lizards were harmed in the development of AutoGPT. The tale is apocryphal. We do have a coredev named Bill, who is fortunately alive and well).
+
 - - -
 
 ```
