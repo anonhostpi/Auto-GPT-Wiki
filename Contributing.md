@@ -23,11 +23,11 @@ Don't be a stooge.
     - They are careful to only focus on modifying relevant code
         They see plenty of unrelated code that can be tidied up, but they're keeping this PR focused
     - Wonderful, it's working!
-- Bill hops on the Discord and sends a message in #pull-requests to say "Ready!"
+- Bill removes the DRAFT status of his PR, hops on the Discord and sends a message in #pull-requests to say "Chekkit y'all!"
     - Actually he notices Pwuts is livestreaming, so hops in and they do a live review/merge.
 - Bill's fix is now in master.
-- There is jubilance and great celebration throughout the realm.
-- Bill is offered a Contributors badge, as he fkn nailed it.
+    - There is jubilance and great celebration throughout the realm.
+    - Bill is offered a Contributors badge, as he fkn nailed it.
 
 - Later Eddie eats Bill, because he is hungry and an Eagle is higher in the foodchain than a Lizard.
 
