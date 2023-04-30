@@ -11,12 +11,18 @@ Don't be a stooge.
 🦎 Bill the Lizard, on the other hand, has got it right:
 - He's quietly figured out how the code works
 - He's spotted a problem. It's quite a lot of work even for Bill, who is a senior software engineer. So that's likely to take a load off of the shoulders of the core-team.
-- A quick search of issues / PRs suggests nobody's on it.
+- A quick search of issues / PRs suggests nobody's on it
 - He's created a Draft-PR on GitHub and filled in the description
 - He's jumped on the Discord, and floated his proposal in the right channel (#dev-chat)
-    - A maintainer has picked up and greenlighted him
+    - A maintainer has picked up and greenlighted his PR
     - Eddie the Eagle (also a quality contributor) had the same idea, but (while searching) sees Bill's draftPR and joins forces
-- Bill and Eddie get the code written and test it on their local systems
+- Bill writes code:
+    - He uses ChatGPT/GPT4 sometimes to make sure he's using best practices
+    - Eddie helps out by making PRs against Eddie's PR, which Eddie reviews and merges in
+    - Bill and Eddie run the tests on the PR, so that they know it's gona passs the CI
+    - They are careful to only focus on modifying relevant code
+        They see plenty of unrelated code that can be tidied up, but they're keeping this PR focused
+    - Wonderful, it's working!
 - Bill hops on the Discord and sends a message in #pull-requests to say "Ready!"
     - Actually he notices Pwuts is livestreaming, so hops in and they do a live review/merge.
 - Bill's fix is now in master.
@@ -29,7 +35,7 @@ This is sad for us as Bill is exactly the kind of energy we're looking for.
 
 🦅
 
-(NOTE: No lizards were harmed in the development of AutoGPT. The tale is apocryphal. We do have a coredev named Bill, who is fortunately alive and well).
+DISCLAIMER: No lizards were harmed in the development of AutoGPT. The tale is apocryphal. We do have a coredev named Bill, but he is not (as far as we can tell) a lizard.
 
 - - -
 
