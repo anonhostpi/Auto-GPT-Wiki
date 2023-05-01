@@ -13,6 +13,11 @@ Don't be a stooge.
 - He's spotted a problem. It's quite a lot of work even for Bill, who is a senior software engineer. So that's likely to take a load off of the shoulders of the core-team.
 - A quick search of issues / PRs suggests nobody's on it
 - He's created a Draft-PR on GitHub and filled in the description
+    - He's filled in the description
+        - Clean summary of the problem he's addressing
+        - Clean summary of how he's gona solve it
+        - links to related resources
+        - and he's put his DiscordId in too
 - He's jumped on the Discord, and floated his proposal in the right channel (#dev-chat)
     - A maintainer has picked up and greenlighted his PR
     - Eddie the Eagle (also a quality contributor) had the same idea, but (while searching) sees Bill's draftPR and joins forces
@@ -36,6 +41,8 @@ This is sad for us as Bill is exactly the kind of energy we're looking for.
 🦅
 
 DISCLAIMER: No lizards were harmed in the development of AutoGPT. The tale is apocryphal. We do have a coredev named Bill, but he is not (as far as we can tell) a lizard.
+
+🎖️ This is how to get the **CONTRIBUTOR** badge in Discord -- our mergers are on the lookout for contributions that demonstrate a high level of engineering capability. If you put your Discord name in your PR we'll be able to contact you. 
 
 - - -
 
