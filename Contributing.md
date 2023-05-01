@@ -1,6 +1,6 @@
 # 🎁 Contributing
 
-😣 Larry is filing an issue. Larry is too lazy to read the doc. Larry is also too lazy to check for duplicates. Larry is even too lazy to talk in the Discord. Larry isn't supplying useful information in his issue. He hasn't even filled out the PR description. It's all rather a mess. Larry's issue will be closed.
+😣 Larry is filing an issue. Larry is too lazy to read the [/docs](https://github.com/Significant-Gravitas/Auto-GPT/tree/master/docs). Larry is also too lazy to check for duplicates. Larry is even too lazy to talk in the Discord. Larry isn't supplying useful information in his issue. He hasn't even filled out the PR description. It's all rather a mess. Larry's issue will be closed.
 
 😖 Curly is making a Pull Request. He's making a minor code-change and adding some punctuation in the doc. If he's honest with himself he wants to boost his GitHub stats to show he's contributed to AutoGPT. He's not taking on a difficult task, and his code is not bringing significant value. A Triager has to preprocess his PR, then a maintainer has to put it on the [Project Kanban](https://github.com/orgs/Significant-Gravitas/projects/1). Then it has to be reviewed by two maintainers before being merged. A core-dev could do this work in half the time it takes to process, so Curly is actually CREATING work for the coredev team. Curly's PR will be rejected.
 
