@@ -36,7 +36,7 @@ Don't be a stooge.
 
 - Later Eddie eats Bill, because he is hungry and an Eagle is higher in the foodchain than a Lizard.
 
-This is sad for us as Bill is exactly the kind of energy we're looking for.
+This is sad for us as Bill is exactly the kind of energy we need. We're looking for contributors like Bill.
 
 🦅
 
