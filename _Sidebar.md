@@ -7,7 +7,3 @@
 - [🧪 Catalyzing](Catalyzing)
 - [🧙‍♂️ Maintaining](Maintaining)
 - [💫 Architecting](Architecting)
-
----
-
-- [🎮 Discord](Discord)
