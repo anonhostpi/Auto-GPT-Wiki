@@ -30,3 +30,11 @@ Reactions
 - ✅ job done (merged, finished, etc)
 
 
+# Organizing meetings
+
+- create a thread at the relevant place (e.g. ⁠💬・dev-contributors-chat )
+- Hilight e.g. @Contributor
+- Propose time using https://r.3v.fi/discord-timestamps/ -- invite 👍 👎 responses
+- link a livedoc https://pad.bitlair.nl/ so stakeholders can put together an agenda, so meeting starts hot
+- during the meeting, can update further the livedoc like Nick did yesterday, marking out TODOs at bottom of doc
+- After the meeting, can screenshot whole convo and dump into thread
