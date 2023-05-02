@@ -38,3 +38,20 @@ Reactions
 - link a livedoc https://pad.bitlair.nl/ so stakeholders can put together an agenda, so meeting starts hot
 - during the meeting, can update further the livedoc like Nick did yesterday, marking out TODOs at bottom of doc
 - After the meeting, can screenshot whole convo and dump into thread
+
+
+# Release process
+- Create e.g. `0.3.0` thread in #contributors
+- Create livedoc https://pad.bitlair.nl/ for CHANGELOG (that we'll all chip into)
+- Ask @Contributor "Any more additions for this release?"
+- Compile a list of TODOs, get it on the kanban (maybe a single card with checkbox items that link to other cards)
+- get all items / fixes in
+- MERGE-freeze
+- Round of testing 
+    - Discord-wide announcement
+    - TODO: Need to DIRECT this testing (does everyone test everything? plugins?)
+    - TODO: Need some way to get feedback (into a thread)
+- If fail rinse & repeat
+- Copy the CHANGELOG to the wiki
+- Update BULLETIN.md to link to it
+- Make the release
