@@ -42,7 +42,7 @@ Reactions
 
 # Release process
 - Create e.g. `0.3.0` thread in #contributors
-- Create livedoc https://pad.bitlair.nl/ for CHANGELOG (that we'll all chip into)
+- Create livedoc https://pad.bitlair.nl/ for **Release Notes** (that we'll all chip into)
 - Ask @Contributor "Any more additions for this release?"
 - Compile a list of TODOs, get it on the kanban (maybe a single card with checkbox items that link to other cards)
 - get all items / fixes in
@@ -52,6 +52,7 @@ Reactions
     - TODO: Need to DIRECT this testing (does everyone test everything? plugins?)
     - TODO: Need some way to get feedback (into a thread)
 - If fail rinse & repeat
-- Copy the CHANGELOG to the wiki
+- Copy the **Release Notes** to the wiki
 - Update BULLETIN.md to link to it
-- Make the release
+- Make the release, dropping in the release-notes, and tag master (e.g. v0.3.0)
+- Announce it using the main Discord #Announcements channel (which relays to 50k+ other discord users as well as our guild)
