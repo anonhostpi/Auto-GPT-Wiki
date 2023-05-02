@@ -30,7 +30,7 @@ Reactions
 - ✅ job done (merged, finished, etc)
 
 
-Organizing meetings
+# Organizing meetings
 
 - create a thread at the relevant place (e.g. ⁠💬・dev-contributors-chat )
 - Hilight e.g. @Contributor
