@@ -21,3 +21,10 @@ Also, check out the project for tracking benchmarking efforts [here](https://git
 
 We also are working on figuring out the best ways to measure agent performance which is an ongoing research effort and is supported by our reading group. The discord channel for that will be coming shortly.
 
+# Long Term Plan and Vision for Benchmarks:
+
+The dev velocity for this project is absurd. We have had great success with defining memory metrics and then letting the community optimize for those.
+
+The goal for the benchmarking project is to build on that success and to find specific challenges and benchmarks with which the agent currently fails and to get folks to consistently beat them.
+
+We would like to build a full testing pipeline for recursive code self improvement and other definitions of "AGI" so we can quickly move towards autonomous agents that provide value in a deterministically measurable way even if the agents themselves are stochastic.
