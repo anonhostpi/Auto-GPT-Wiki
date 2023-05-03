@@ -7,4 +7,4 @@
 - [🧪 Catalyzing](Catalyzing)
 - [🧙‍♂️ Maintaining](Maintaining)
 - [💫 Architecting](Architecting)
-- [:bar_chart:  Benchmarking](Testing-and-Benchmarking)
+- [:bar_chart: Testing and Benchmarking](Testing-and-Benchmarking)
