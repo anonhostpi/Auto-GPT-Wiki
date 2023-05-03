@@ -19,3 +19,5 @@ Currently, on stable we see about a 60% success rate for this task. But we are w
 Check us out in the :bar_chart: Benchmarking Channel on Discord.
 Also, check out the project for tracking benchmarking efforts [here](https://github.com/orgs/Significant-Gravitas/projects/3)
 
+We also are working on figuring out the best ways to measure agent performance which is an ongoing research effort and is supported by our reading group. The discord channel for that will be coming shortly.
+
