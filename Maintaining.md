@@ -3,11 +3,9 @@
 TODO: flesh this all out
 
 - our review/merge process
+- what else?
 
-- our version release process
-
-
-Tribal / Conventions
+# Tribal / Conventions
 
 GitHub:
 Reviews:
@@ -17,18 +15,21 @@ Kanban:
 - Assign yourself to a card in the "In Progress" col, so people can see what you're up to.
 
 
-Discord:
+# Discord:
 
-#maintainer-updates channel:
-Update when you clock in each day, with your TODOs.
+One day:  
+#maintainer-updates channel:  
+Update when you clock in each day, with your TODOs.  
 As you work, maintain this message, so that when you clock out it actually shows what you did (and things still to do)
 This way we can see what everyone's up to
 
-Reactions
-- 👀 (looking at it) -- if someone presents an issue (e.g. a pull-request) we don't want everyone looking at it. So whoever is looking at it, react with 👀
-- 👍 to request acknowledgement (or react to acknowledge that you've read it)
+### Reactions  
+Let's be creative:
+- 👀 (looking at it) -- if someone presents an issue (e.g. a pull-request) we don't want everyone looking at it.
+    So whoever is looking at it, react with 👀
+- Ask for a 👍 to request acknowledgement (or react 👍 to acknowledge that you've read it)
 - ✅ job done (merged, finished, etc)
-
+- etc.
 
 # Organizing meetings
 
