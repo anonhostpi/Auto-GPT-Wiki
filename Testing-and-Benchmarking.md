@@ -10,7 +10,7 @@ And you can run them locally with the pytest command. They also are run automati
 Check out the :test_tube: Testing Channel on discord!
 
 ## Benchmarking
-Benchmarking and challenges are fundamentally different. They do not test deterministic code, but rather capabilities of the agent in specific ways. ways. This is similar as it tests capabilities, but it isn't guaranteed the agent can complete a benchmark or challenge. One example of this is the memory challenges that are currently tracked in integrations in the main repo [here](https://github.com/Significant-Gravitas/Auto-GPT/tree/master/tests/integration/challenges).
+Benchmarking and challenges are fundamentally different. They do not test deterministic code, but rather capabilities of the agent in specific ways that the agent may or may not be currently capable of. One example of this is the memory challenges that are currently tracked in integrations in the main repo [here](https://github.com/Significant-Gravitas/Auto-GPT/tree/master/tests/integration/challenges).
 
 Another example can be found in the benchmarking repo [here](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks). This repo runs OpenAI evals against the AutoGPT Agent. This saves an OpenAI prompt to a file in the Agents workspace, the agent must read the file, come up with a good answer and then save the answer to a specific file which we then let OpenAI evals evaluate for us. 
 
