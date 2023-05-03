@@ -10,14 +10,19 @@ And you can run them locally with the pytest command. They also are run automati
 Check out the :test_tube: Testing Channel on discord!
 
 ## Benchmarking
-Benchmarking and challenges are fundamentally different. They do not test deterministic code, but rather capabilities of the agent in specific ways that the agent may or may not be currently capable of. One example of this is the memory challenges that are currently tracked in integrations in the main repo [here](https://github.com/Significant-Gravitas/Auto-GPT/tree/master/tests/integration/challenges).
+Benchmarking and challenges are fundamentally different. They do not test deterministic code, but rather capabilities of the agent in specific ways that the agent may or may not be currently capable of. 
+
+### Existing Benchmarks
+The memory challenges that are currently tracked in integrations in the main repo [here](https://github.com/Significant-Gravitas/Auto-GPT/tree/master/tests/integration/challenges).
 
 Another example can be found in the benchmarking repo [here](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks). This repo runs OpenAI evals against the AutoGPT Agent. This saves an OpenAI prompt to a file in the Agents workspace, the agent must read the file, come up with a good answer and then save the answer to a specific file which we then let OpenAI evals evaluate for us. 
 
-Currently, on stable we see about a 60% success rate for this task. But we are working on integrating this into an optional GitHub workflow so we can benchmark relevant PRs in CI.
+Currently, on stable we see about a 60% success rate for this task with GPT-4. But we are working on integrating this into an optional GitHub workflow so we can benchmark relevant PRs in CI.
 
 Check us out in the :bar_chart: Benchmarking Channel on Discord.
 Also, check out the project for tracking benchmarking efforts [here](https://github.com/orgs/Significant-Gravitas/projects/3)
+
+There is also ongoing work on a Calculator Benchmark where AutoGPT writes python code for a calculator and then we run tests against it to check its deterministic output is correct.
 
 We also are working on figuring out the best ways to measure agent performance which is an ongoing research effort and is supported by our reading group. The discord channel for that will be coming shortly.
 
