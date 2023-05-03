@@ -33,11 +33,12 @@ Reactions
 # Organizing meetings
 
 - create a thread at the relevant place (e.g. ⁠💬・dev-contributors-chat )
-- Hilight e.g. @Contributor
-- Propose time using https://r.3v.fi/discord-timestamps/ -- invite 👍 👎 responses
-- link a livedoc https://pad.bitlair.nl/ so stakeholders can put together an agenda, so meeting starts hot
+- In it Hilight e.g. @Contributor @Catalyst @Maintainer, @Catalyst @Matintainer, or just @Maintainer
+    - Propose time using https://r.3v.fi/discord-timestamps/ -- invite 👍 👎 responses
+    - link a livedoc https://pad.bitlair.nl/ so stakeholders can put together an agenda, so meeting starts hot
+        - seed the agenda
 - during the meeting, can update further the livedoc like Nick did yesterday, marking out TODOs at bottom of doc
-- After the meeting, can screenshot whole convo and dump into thread
+- After the meeting, summarize actionables in thread
 
 
 # Release process
