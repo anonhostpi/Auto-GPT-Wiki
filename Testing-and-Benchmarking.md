@@ -21,7 +21,7 @@ Also, check out the project for tracking benchmarking efforts [here](https://git
 
 We also are working on figuring out the best ways to measure agent performance which is an ongoing research effort and is supported by our reading group. The discord channel for that will be coming shortly.
 
-# Long Term Plan and Vision for Benchmarks:
+# Long Term Plan and Vision for Benchmarks
 
 The dev velocity for this project is absurd. We have had great success with defining memory metrics and then letting the community optimize for those.
 
