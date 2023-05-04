@@ -1,3 +1,3 @@
 ## Policy for Plugins Creators
 
-Contact @ntindle on Discord for
+Contact @ntindle on Discord
