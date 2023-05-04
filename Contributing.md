@@ -1,3 +1,8 @@
+# STOP PRESS
+We're re-architecting. [HERE](https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting)
+
+^ READ THIS FIRST!
+
 # 🎁 Contributing
 
 😣 Larry is filing an issue. Larry is too lazy to read the [/docs](https://github.com/Significant-Gravitas/Auto-GPT/tree/master/docs). Larry is also too lazy to check for duplicates. Larry is even too lazy to talk in the Discord. Larry isn't supplying useful information in his issue. He hasn't even filled out the PR description. It's all rather a mess. Larry's issue will be closed.
