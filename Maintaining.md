@@ -62,8 +62,11 @@ Let's be creative:
 
 
 # Tooling
-- [list-prs-for-path.sh](https://gist.github.com/Pwuts/0dda08968e2731388461d464bda97039)
+- [list-prs-for-path.sh](https://gist.github.com/Pwuts/0dda08968e2731388461d464bda97039)  
   pwuts' Tool to List pull requests that touch/change a specified file or path
 
-- [Refined GitHub](https://github.com/refined-github/refined-github)
+- [Refined GitHub](https://github.com/refined-github/refined-github)  
   Improvements to GitHub WebUI
+
+- Toran's [git-aid](https://github.com/torantulino/git-aid)  
+  This repository contains a collection of AI-assisted utilities to improve your experience with GitHub. These utilities include tools for finding duplicate issues, generating responses to issues, extracting information about repositories, and assisting with reviewing pull requests.
