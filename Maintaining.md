@@ -59,3 +59,11 @@ Let's be creative:
 - Make the release, dropping in the release-notes, and tag master (e.g. v0.3.0)
 - Announce it using the main Discord #Announcements channel (which relays to 50k+ other discord users as well as our guild)
 - Tweet from official AutoGPT Twitter (Toran)
+
+
+# Tooling
+- [list-prs-for-path.sh](https://gist.github.com/Pwuts/0dda08968e2731388461d464bda97039)
+  pwuts' Tool to List pull requests that touch/change a specified file or path
+
+- [Refined GitHub](https://github.com/refined-github/refined-github)
+  Improvements to GitHub WebUI
