@@ -3,6 +3,8 @@ We're re-architecting. [HERE](https://github.com/Significant-Gravitas/Auto-GPT/w
 
 ^ READ THIS FIRST!
 
+NOTE: We're in the process of moving content from the repo's CONTRIBUTING.md to here! To request a change to this doc, ask a maintainer on discord (@Maintainer will do it).
+
 # 🎁 Contributing
 
 😣 Larry is filing an issue. Larry is too lazy to read the [/docs](https://github.com/Significant-Gravitas/Auto-GPT/tree/master/docs). Larry is also too lazy to check for duplicates. Larry is even too lazy to talk in the Discord. Larry isn't supplying useful information in his issue. He hasn't even filled out the PR description. It's all rather a mess. Larry's issue will be closed.
