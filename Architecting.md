@@ -18,22 +18,23 @@ Best way is to engage with the re-arch, or sit it out and wait for the dust to s
 
 # Engaging in the re-arch
 
-- Join Discord
+- Join [Discord](https://discord.gg/autogpt)
 
-- If you know what you're doing and feel you're able to accelerate our progress:
+- If you know what you're doing and feel you are able to accelerate our progress:
     - DM pi#8377 and ask for a Contributor badge
         - say who you are (link your github etc.)
         - say what you're doing / would like to do
         - if you've got a PR in the pipeline, link it
 
     During this re-architecture phase we need senior devs.  
+    A lot of planning has already been done.  Read through the #re-arch channel first.
     Once the dust has settled we'll be more able to help junior devs learn the ropes.  
 
 
-# Non--re-arch contribution (and/or waiting for dust to settle)
+# Non re-arch contribution (and/or waiting for dust to settle)
 
 - If you have contributions in the pipeline
-    - We'l be aware of your PR
+    - We'll be aware of your PR
     - If you wish to expedite it, please calculate whether you think it's in the best interests of the project to expedite, and if so connect over the Discord
 
 - If you're enthusiastic to participate but it's all rather bewildering:
