@@ -58,3 +58,4 @@ Let's be creative:
 - Update BULLETIN.md to link to it
 - Make the release, dropping in the release-notes, and tag master (e.g. v0.3.0)
 - Announce it using the main Discord #Announcements channel (which relays to 50k+ other discord users as well as our guild)
+- Tweet from official AutoGPT Twitter (Toran)
