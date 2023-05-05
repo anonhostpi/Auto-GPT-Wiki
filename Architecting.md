@@ -19,8 +19,8 @@ If you're working on a plugin, please bear in mind that one of our primary goals
 
 
 - If you're enthusiastic to participate but it's all rather bewildering:
-    - Please connect with other devs in the channels, and engage
-    - Please be patient with us as we get the core into a shape and exit hyperdrive
+    - Please connect with other devs in the Discord channels, and engage
+    - Please be patient as we get the new core into shape and exit hyperdrive
 
 
 How to move forwards? How to involve?
