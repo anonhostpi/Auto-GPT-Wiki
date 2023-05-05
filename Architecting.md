@@ -25,6 +25,9 @@ If you're working on a plugin, please bear in mind that one of our primary goals
 
 How to move forwards? How to involve?
 
+### 0. If your PR is no longer relevant, best to close it
+
+
 ### 1. wait for the dust to settle
 
 - This may require further work (later) on your part to amend your PR into the new arch
