@@ -27,7 +27,7 @@ How to move forwards? How to involve?
 
 ### 1. wait for the dust to settle
 
-- This may require further work on your part to amend your PR into the new arch
+- This may require further work (later) on your part to amend your PR into the new arch
 - However, this will enable us to focus on the re-arch
 
 
