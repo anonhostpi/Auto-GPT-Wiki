@@ -30,8 +30,8 @@ Don't be a stooge.
     - Eddie the Eagle (also a quality contributor) had the same idea, but (while searching) sees Bill's draftPR and joins forces
 - Bill writes code:
     - He uses ChatGPT/GPT4 sometimes to make sure he's using best practices
-    - Eddie helps out by making PRs against Eddie's PR, which Eddie reviews and merges in
-    - Bill and Eddie run the tests on the PR, so that they know it's gona passs the CI
+    - Eddie helps out by making PRs against Bill's PR, which Bill reviews and merges in
+    - Bill and Eddie run the tests on the PR, so that they know it's gona pass the CI
     - They are careful to only focus on modifying relevant code
         They see plenty of unrelated code that can be tidied up, but they're keeping this PR focused
     - Wonderful, it's working!
