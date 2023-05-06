@@ -30,7 +30,7 @@ Do your best to figure out where to engage. We're trying to figure it out too.
     - then ``` to end the block
     - this way you'll get beautiful syntax hilighting
 
-- Use Discord Timestamps for scheduling https://r.3v.fi/discord-timestamps/
+- Use Discord Timestamps for scheduling https://r.3v.fi/discord-timestamps/ EDIT: Better: https://hammertime.cyou/en-GB
 
 - If it helps someone else, react 👍 to acknowledge you've read something
 
