@@ -21,6 +21,10 @@ Do your best to figure out where to engage. We're trying to figure it out too.
 
 # Discord Conventions & Tips
 
+- If you're contributing, please align your nick-in-this-server with your GitHub username, and put your timezone  
+    e.g. fooNickname -> myGitHubName (GMT+3)  
+    UserSettings -> Profiles -> ServerProfiles  
+
 - Please put things in the most sensible place
     If we all do this we're golden
 
