@@ -19,7 +19,7 @@ GitHub is great for more-persistent information.
 Do your best to figure out where to engage. We're trying to figure it out too.
 
 
-# Discord Conventions
+# Discord Conventions & Tips
 
 - Please put things in the most sensible place
     If we all do this we're golden
@@ -40,4 +40,6 @@ Do your best to figure out where to engage. We're trying to figure it out too.
     - If you're in a channel and want to see the threads, there's a #💬 icon on the top right of your Discord window.
     - Click it to see all the threads
     - You can JOIN a thread (right click and 'join')
-        - This means the thread appears under the channel, and you can see conversation in it! 
+        - This means the thread appears under the channel, and you can see conversation in it!
+
+- If you want your DMs alongside channels-view, use the Desktop Discord client and WebUI together
