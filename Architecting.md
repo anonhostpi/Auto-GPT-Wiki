@@ -4,6 +4,8 @@ We are (as of yesterday) RE-ARCHITECTING the core of AutoGPT
 
 This requires tight coordination.
 
+If you're interested to track progress (or involve) check out #re-arch channel on our Discord.
+
 If you're contributing to this project (e.g. have PRs stuck in the pipeline):
 - We're sorry to create suffering (but think this is for the Greater Good)
 - You're likely aware that the core is a mess and NEEDS re-architecting
