@@ -2,6 +2,8 @@
 
 We use a [Discord server](https://discord.gg/autogpt) for our users and our dev-team.
 
+NOTE: If you just created your Discord account, you'll need to wait a couple of hours before you can join the server. This is an anti-bot security measure. 
+
 If you're stuck, look down the users-list for a community-mod and chat with them.
 
 Discord is great for information that is more transient:
