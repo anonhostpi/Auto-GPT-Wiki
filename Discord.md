@@ -2,9 +2,11 @@
 
 We use a [Discord server](https://discord.gg/autogpt) for our users and our dev-team.
 
-NOTE: If you just created your Discord account, you'll need to wait a couple of hours before you can join the server. This is an anti-bot security measure. 
+NOTE: If you just created your Discord account, you'll need to wait a couple of hours before you can join the server. This is an anti-bot security measure.
 
-If you're stuck, look down the users-list for a community-mod and chat with them.
+NOTE: If you got banned due to the above, it's an IP ban, so you'll also be banned on your original account. Contact our Discord admin Fergus#0042 if you're locked out and he'll sort you out.
+
+If you're in the guild and stuck, look down the users-list for a community-mod and chat with them.
 
 Discord is great for information that is more transient:
 - touching base and chatting with other users / devs
